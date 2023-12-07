@@ -1,7 +1,8 @@
 <h1 align="center">Welcome to Yoon'space!👋
 
   
-<h3 align="center">Justlike YoonJu! Hi, I'm justlikezoo</h3>
+<h3 align="center">Justlike YoonJu! </h3>
+<h3 align="center"> Hi, I'm justlikezoo </h3>
 
 
 - 🌟 I am ... **묵묵히 그리고 끝까지!**
