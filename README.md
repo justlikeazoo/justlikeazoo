@@ -1,6 +1,6 @@
 <h1 align="left">Welcome to Yoon'space!👋 
 
-<h3 align="left"> Hi, I'm justlikezoo </h3>
+<h3 align="left"> Hi, I'm justlikeazoo </h3>
 &nbsp;
 &nbsp; 
 
