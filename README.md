@@ -21,5 +21,3 @@
 &nbsp; 
 &nbsp; 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=justlikeazoo&show_icons=true&theme=graywhite&locale=en" alt="justlikeazoo" /></p>
-
