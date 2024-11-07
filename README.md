@@ -12,13 +12,7 @@
 
 📝 Other study records are ... **https://justlikez00.tistory.com/**
 
-💬 Want to know about me? ... **https://blog.naver.com/loveyoon_05**
-
 📱 Contact me ... **jyjj0510@khu.ac.kr**
-
-🌳 Hobby ... 	**🎧노래분석 📖독서 📹영상편집**
-
-🌰 Motto ... **지고 싶지 않다면, 이길 때까지 계속하면 된다**
 
 &nbsp; 
 &nbsp; 
