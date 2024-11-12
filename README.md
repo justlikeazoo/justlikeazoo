@@ -1,18 +1,12 @@
-<h1 align="left">Welcome to Yoon'space!👋 
+<h1 align="left">About me👋 
 
 <h3 align="left"> Hi, I'm justlikeazoo </h3>
 &nbsp;
 &nbsp; 
 
-🌟 I am ... **묵묵히 그리고 끝까지!**
- 
-🏫 Study on ... **KyungHee University**
-
-🎓Study before ... **Department of Commerce and Trade**
+🌟 Interest ... Data Analytics, Data Mining, LLM, NLP, Prompt Engineering
 
 📝 Other study records are ... **https://justlikez00.tistory.com/**
-
-📱 Contact me ... **jyjj0510@khu.ac.kr**
 
 &nbsp; 
 &nbsp; 
