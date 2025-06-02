@@ -6,7 +6,7 @@
 
 🌟 Interest ... Data Analytics, Data Mining, LLM, NLP, Prompt Engineering
 
-📝 Other study records are ... **https://justlikez00.tistory.com/**
+📝 Other study records are ... 
 
 &nbsp; 
 &nbsp; 
