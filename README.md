@@ -1,4 +1,5 @@
-I'm trying to do a daily commit to improve my coding skills!
+I'm trying to do a daily commit to improve my coding skills!\
+Start at 2026-01-15
 
 My ...
 
