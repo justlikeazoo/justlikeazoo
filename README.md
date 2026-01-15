@@ -1,3 +1,5 @@
+I'm trying to do a daily commit to improve my coding skills!
+
 My ...
 
 🙋🏻‍♀️ Linkedin ... https://www.linkedin.com/in/justlikeazoo/
