@@ -1,12 +1,7 @@
-<h1 align="left">About me👋 -------- 2026.01.15 cleaning... 
+My ...
+🙋🏻‍♀️ Linkedin ... https://www.linkedin.com/in/justlikeazoo/
+📂 Tistory ... https://loveyoonself.tistory.com/
 
-<h3 align="left"> Hi, I'm justlikeazoo </h3>
-&nbsp;
-&nbsp; 
-
-🌟 Interest ... Data Analytics, Data Mining, LLM, NLP, Prompt Engineering
-
-📝 Other study records are ... 
 
 &nbsp; 
 &nbsp; 
